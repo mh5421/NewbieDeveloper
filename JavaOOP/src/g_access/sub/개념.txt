@@ -1,0 +1,13 @@
+
+# 접근지정자 #
+
+private : 그 클래스에서만 허용
+default : 그 팩키지에서 허용
+protected : 다른 팩키지에서는 상속관계인 경우 (동일한 팩키지 허용)
+public : 모든 접근 허용
+
+
+접근지정자의 크기
+private < default < protected < public
+
+overriding 할때 접근지정자가 같거나 커야한다.
