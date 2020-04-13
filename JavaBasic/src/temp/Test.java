@@ -85,7 +85,9 @@ public class Test {
 	
 	
 	public static void main(String []args) {
-
+/*
+ * 
+ * 
 		Scanner scan = new Scanner(System.in);
 		System.out.print("첫번째 문자열 입력:");
 		String str1 = scan.nextLine();
@@ -99,8 +101,10 @@ public class Test {
 		String str2 = scan.nextLine();
 		System.out.print("나이:");
 		int b= scan.nextInt();
+		*/
+		int c= 4800+(4800*75/100);
 		
-		
+		System.out.println(c);
 		
 		
 		
